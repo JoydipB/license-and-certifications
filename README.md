@@ -1,2 +1,2 @@
-# license-and-certifications
-Repository for license and certifications.
+# licenses-and-certifications
+Repository for licenses and certifications.
